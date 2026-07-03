@@ -7,7 +7,7 @@ Aplicacion de un sistema predictivo de mantenimiento
  
 [English version below](#-predictive-maintenance-for-operational-availability)
  
-Link: [link](https://sistema-de-mantenimiento-predictivo.streamlit.app/)
+Link: https://sistema-de-mantenimiento-predictivo.streamlit.app/
  
 ## 📌 Contexto de misión
  
